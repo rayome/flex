@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/Flexera user guide2/Flexera user guide.htm'],s:['0'],p:[['0',0]]});
